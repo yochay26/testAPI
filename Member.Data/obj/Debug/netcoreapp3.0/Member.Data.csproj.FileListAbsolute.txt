@@ -1,0 +1,8 @@
+C:\Users\yochayN\source\repos\testApi\Member.Data\bin\Debug\netcoreapp3.0\Member.Data.deps.json
+C:\Users\yochayN\source\repos\testApi\Member.Data\bin\Debug\netcoreapp3.0\Member.Data.dll
+C:\Users\yochayN\source\repos\testApi\Member.Data\bin\Debug\netcoreapp3.0\Member.Data.pdb
+C:\Users\yochayN\source\repos\testApi\Member.Data\obj\Debug\netcoreapp3.0\Member.Data.csprojAssemblyReference.cache
+C:\Users\yochayN\source\repos\testApi\Member.Data\obj\Debug\netcoreapp3.0\Member.Data.AssemblyInfoInputs.cache
+C:\Users\yochayN\source\repos\testApi\Member.Data\obj\Debug\netcoreapp3.0\Member.Data.AssemblyInfo.cs
+C:\Users\yochayN\source\repos\testApi\Member.Data\obj\Debug\netcoreapp3.0\Member.Data.dll
+C:\Users\yochayN\source\repos\testApi\Member.Data\obj\Debug\netcoreapp3.0\Member.Data.pdb
